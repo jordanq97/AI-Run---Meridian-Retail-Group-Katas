@@ -4,7 +4,7 @@
 **Author:** [Jordan Quinn — Business Analyst]
 **Project:** [Meridian Retail Group]
 **Task:** [Generating alerts to engineering teams automatically detecting and flagging anomalies or failures in the unified commerce platform’s system logs.]
-**Committed location:** [Repo path or shared folder URL]
+**Committed location:** [https://github.com/jordanq97/AI-Run---Meridian-Retail-Group-Katas]
 
 ---
 
